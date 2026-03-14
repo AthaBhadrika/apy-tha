@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://c.termai.cc/i191/f9nlM5.jpg" alt="KuroNeko API Banner" width="100%" style="border-radius: 10px;" />
+<img src="https://c.termai.cc/i191/f9nlM5.jpg" alt="Thafoxen API Banner" width="100%" style="border-radius: 10px;" />
 
 # KuroNeko API
 **Simple, Fast, and Dynamic REST API Base built with Express & TypeScript.**
@@ -250,5 +250,5 @@ Project ini dilengkapi GUI bawaan:
 </details>
 
 <div align="center">
-Created with ❤️ by Danzz
+Created with ❤️ by Thaa
 </div>
