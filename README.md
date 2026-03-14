@@ -2,7 +2,7 @@
 
 <img src="https://c.termai.cc/i191/f9nlM5.jpg" alt="Thafoxen API Banner" width="100%" style="border-radius: 10px;" />
 
-# KuroNeko API
+# THAFOXEN API
 **Simple, Fast, and Dynamic REST API Base built with Express & TypeScript.**
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## 📖 Introduction
 
-**KuroNeko API** adalah template dasar (boilerplate) untuk membuat REST API yang modern, rapi, dan mudah dikembangkan.
+**ThaFoxen API** adalah template dasar (boilerplate) untuk membuat REST API yang modern, rapi, dan mudah dikembangkan.
 
 Project ini dirancang untuk mengatasi kerumitan setup awal dengan menyediakan fitur **Auto-Load Router** berbasis konfigurasi JSON, penghitung pengunjung (visitor counter), dan antarmuka dokumentasi (Docs UI) yang estetik secara otomatis.
 
